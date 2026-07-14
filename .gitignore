@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# FastHTML session signing key (auto-generated at runtime)
+*.sesskey
+
 # Distribution / packaging
 .Python
 build/
